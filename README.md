@@ -1,4 +1,4 @@
-# 🚀 Hello, I'm TARUN KUMAR  
+# 🚀 TARUN KUMAR  
 **Aspiring Cybersecurity Analyst | IoT & Web Developer | Ethical Hacker**  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-kumar-pathak/)  
@@ -44,13 +44,12 @@ I aim to contribute to **strengthening digital security** using my expertise in 
 ## 🎓 **Certifications**  
 Here are some of the certifications I have earned:  
 
-[![Cyber Security](https://img.shields.io/badge/-Cyber_Security-FF0000?&style=for-the-badge&logo=CyberSecurity&logoColor=white)](https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHT103046)  
-[![Internship](https://img.shields.io/badge/-Internship-007ACC?&style=for-the-badge&logo=InternshipStudio&logoColor=white)](https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHI103046)  
-[![SQL Slayer - TryHackMe](https://img.shields.io/badge/-SQL_Slayer-4D4D4D?&style=for-the-badge&logo=TryHackMe&logoColor=white)]  
-[![Web Security - TryHackMe](https://img.shields.io/badge/-Web_Fundamentals-006400?&style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SE9TRGWNI4.pdf)  
-[![Python - Udemy](https://img.shields.io/badge/-Python-000080?&style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-17a06d36-a8ca-415b-831e-e77a586a0b33/)  
-[![Linux & SQL - Coursera](https://img.shields.io/badge/-Linux_&_SQL-4D4D4D?&style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/1JZ3FD5ZOVBA)  
-[![Foundations of Cybersecurity - Coursera](https://img.shields.io/badge/-Foundations_of_Cybersecurity-2C2F33?&style=for-the-badge&logo=Google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/B506671WRWX4)  
+- 🛡 **[Cybersecurity Internship + Training - Internship Studio](https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHT103046)**  
+- 📜 **[Python - Udemy](https://www.udemy.com/certificate/UC-17a06d36-a8ca-415b-831e-e77a586a0b33/)**  
+- 🔍 **[SQL Slayer - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SE9TRGWNI4.pdf)**  
+- 🌐 **[Web Security - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SE9TRGWNI4.pdf)**  
+- 🖥 **[Linux & SQL - Coursera](https://www.coursera.org/account/accomplishments/verify/1JZ3FD5ZOVBA)**  
+- 🔐 **[Foundations of Cybersecurity - Coursera](https://www.coursera.org/account/accomplishments/verify/B506671WRWX4)**  
 
 ---
 
@@ -70,14 +69,28 @@ Here are some of the certifications I have earned:
 
 ### **🔹 Cybersecurity Projects**  
 ✔ **[Password Strength Checker](https://github.com/tarunkumar910/password_strength_checker.git)** – Developed a tool to analyze password security.  
+✔ **[Intrusion Prevention System (IPS)](https://github.com/tarunkumar910/ips_tool)** – Built an IPS from scratch.  
+✔ **[ZIP Password Cracking Tool](https://github.com/tarunkumar910/zip_password_cracker)** – In development.  
 
 ### **🔹 Java Projects**  
 ✔ **[Tic-Tac-Toe Game](https://github.com/tarunkumar910/tic_tac_to_game)** – A simple game built using Java.  
+
+### **🔹 IoT Projects**  
+✔ **[Biometric Attendance System](https://github.com/tarunkumar910/iot_biometric_attendance)** – Built with Arduino Nano & ESP8266.  
 
 ### **🔹 Web Development Projects**  
 ✔ **[Personal Portfolio](https://tarunkumar910.github.io/personal/)** – Responsive portfolio website.  
 ✔ **[Tin Dog](https://tarunkumar910.github.io/tin-dog-project/)** – A fun Bootstrap-based project.  
 ✔ **[CV Website](https://tarunkumar910.github.io/cv/)** – Online resume.  
+
+---
+
+## 🏆 **Achievements & Competitions**  
+✔ 🎖 **Top 10 in College Hackathon** – Built an IoT-based **biometric attendance system**.  
+✔ 🏅 **Smart India Hackathon** – Solved a real-world problem on **real-time monitoring of online certificate issuance**.  
+✔ 🔍 **Bug Bounty Hunter** – Participating in **Shopify, Truecaller, and Yoti** bug bounty programs.  
+✔ ⚡ **Ranked in Top 10%** globally on **TryHackMe**.  
+✔ 🔢 **Solved 100+ LeetCode problems** in **Java**.  
 
 ---
 
