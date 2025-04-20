@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunny kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/tarunkumar910/tarunkumar910/blob/main/hacker-gif-2.gif">
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstockcake.com%2Fi%2Fcoding-at-night_1243263_1019508&psig=AOvVaw1F_lFVt7v8DFlRTZ5wCJzC&ust=1745213634948000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODr-Mrx5YwDFQAAAAAdAAAAABAE">
+
 
 <img aglin="right" alt="coding" with="400" src="![image]()
 ">
