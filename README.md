@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="ee6071b7-ef42-45e4-ba8c-9fc44bbdfa22_large.webp">
 
 
-<img aglin="right" alt="coding" with="400" src="![image]()
+<img aglin="right" alt="coding" with="400" src="ee6071b7-ef42-45e4-ba8c-9fc44bbdfa22_large.webp
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=001sunny&label=Profile%20views&color=0e75b6&style=flat" alt="001sunny" /> </p>
